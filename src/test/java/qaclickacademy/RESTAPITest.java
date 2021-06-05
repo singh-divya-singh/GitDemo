@@ -27,4 +27,8 @@ public class RESTAPITest {
 	{
 		System.out.println("delete2Twitter");	
 	}
+	public void delete3Twitter()
+	{
+		System.out.println("delete3Twitter");	
+	}
 }
