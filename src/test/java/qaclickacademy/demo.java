@@ -1,5 +1,11 @@
 package qaclickacademy;
 
-public class demo {
+import org.testng.annotations.Test;
 
+public class demo {
+	@Test
+	public void NativeAPpAndroid()
+	{
+		System.out.println("NativeAPpAndroid");
+	}
 }
